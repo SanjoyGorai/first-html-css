@@ -28,6 +28,10 @@ html,body{
     border-radius: 8px;
     align-items: center;
 }
+#img-sanjoy:hover{
+    border-color: aqua;
+    cursor: pointer;
+}
 #des{
     color: blue;
     position: relative;
@@ -49,10 +53,10 @@ html,body{
     margin-right: auto;
     margin-left: auto;
     width: 180px;
-    
 }
 .image-1{
     width: 200px;
+    opacity: 0.8;
 }
 .names{
     color: red;
